@@ -6,3 +6,6 @@ New labs for this course were launched on August 1, 2025. The new labs are locat
 * New GitHub Pages: [https://aka.ms/azure-developer-exercises](https://aka.ms/azure-developer-exercises)
 
 >**Note:** This repository is being set to archive and will no longer be maintained.
+
+
+# Changes done by hitachitraining organisation 
