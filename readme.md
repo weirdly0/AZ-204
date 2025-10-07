@@ -9,4 +9,3 @@ New labs for this course were launched on August 1, 2025. The new labs are locat
 
 
 # Changes done by hitachitraining organisation 
-edited
