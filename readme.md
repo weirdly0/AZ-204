@@ -8,4 +8,4 @@ New labs for this course were launched on August 1, 2025. The new labs are locat
 >**Note:** This repository is being set to archive and will no longer be maintained.
 
 
-# Changes done by hitachitraining organisation 
+# Changes done for pull request example
